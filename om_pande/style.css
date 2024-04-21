@@ -1,0 +1,51 @@
+#imgdata{
+    width: 1000px;
+    margin-left: 0px;
+}
+
+.jumbotron {
+    padding: 0rem 7rem;
+    display: flex;
+    background-color:#f2d8b8;
+    color:white;
+}
+
+.jumbotron .lead{
+    text-decoration: double;
+    text-shadow:#f2d8b8;
+}
+
+
+
+.carousel-caption p{
+    font-synthesis-small-caps: 20px;
+}
+
+.footer ul{
+    list-style-type: none;
+}
+
+.footer{
+    margin-top: 200px;
+    height: 500px;
+    background-color:#f2d8b8;
+}
+
+.navbar{
+     background-color:#f2d8b8;
+    
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.reg{
+    color: white;
+    background-color:#f2d8b8;
+
+}
